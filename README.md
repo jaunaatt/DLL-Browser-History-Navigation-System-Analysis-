@@ -1,4 +1,3 @@
-# DLL-Browser-History-Navigation-System-Analysis-
 # Browser History Navigation System: Algorithmic Analysis
 
 This project focuses on finding the most efficient approach for implementing a Browser History Navigation System. It involves a comparative analysis of **Singly Linked Lists (SLL)** vs. **Doubly Linked Lists (DLL)** and **Iterative** vs. **Recursive** implementation techniques.
